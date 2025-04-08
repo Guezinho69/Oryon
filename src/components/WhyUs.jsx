@@ -23,7 +23,7 @@ function WhyUs() {
     {
       icon: '/images/icons/casque.png',
       number: '10',
-      title: 'Experts à Votre Écoute',
+      title: 'Experts Qualifiés',
       description: 'Notre équipe de 10 experts basés à Paris est là pour organiser votre EVG de A à Z, et répondre à toutes vos questions pour un séjour parfait.',
     },
   ];
